@@ -1,7 +1,7 @@
 
 # 🌀 Taller de Portafolio con Tailwind CSS Recursos para Estudiantes
 
-![TechSchool Logo](img/techSchool.png)
+![TechSchool Logo](img/TechSchool2.png)
 ![Duoc UC Logo](img/duoc.png)
 
 ## 🧠 Descripción del Repositorio
