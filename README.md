@@ -31,14 +31,20 @@ Este recurso ha sido desarrollado con el apoyo del **CITT** y la **Escuela de In
 🔗 **Ejemplo final publicado (GitHub Pages):**  
 [https://marcelo-crisostomo.github.io/Tailwind_Portafolio/](https://marcelo-crisostomo.github.io/Tailwind_Portafolio/)
 
+🔗 **Carpeta Drive Video :**  
+[https://drive.google.com/drive/folders/15r_TKOlitZyJJHdsoEUjdd4QHAsrSbok?usp=sharing](https://drive.google.com/drive/folders/15r_TKOlitZyJJHdsoEUjdd4QHAsrSbok?usp=sharing)
+
+🔗 **Sitio Web TechSchool :**  
+[https://techschool-latam.com/](https://techschool-latam.com/)
+
 ---
 
 ## 📄 Licencia
 
-Este recurso es de uso **educativo y libre de fines comerciales**. Puedes modificarlo, compartirlo y adaptarlo, siempre que se mantenga el crédito correspondiente.
+Este recurso es de uso **educativo y libre de fines comerciales**. Puedes modificarlo, compartirlo y adaptarlo.
 
 ---
 
 Hecho con 🔥 por **Marcelo Crisóstomo Carrasco**  
-Docente - Escuela de Informática y Telecomunicaciones, Duoc UC Puerto Montt
+Docente - Escuela de Informática y Telecomunicaciones, Duoc UC Puerto Montt para techSchool 2025
 
